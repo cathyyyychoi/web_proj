@@ -1,4 +1,6 @@
 # react-native-web
 ## Shopping Mall website
-> Front end  
-> Back end
+> Frontend  
+>> React Front
+> Backend
+>> express Back
