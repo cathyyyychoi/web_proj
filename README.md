@@ -1,5 +1,5 @@
 # Bootstrap
-> CSS
-> Grid System
-> Component
-> Javascript Plugin
+> CSS  
+> Grid System  
+> Component  
+> Javascript Plugin  
